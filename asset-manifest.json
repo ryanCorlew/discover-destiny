@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/discover-destiny/static/css/main.d6f4fba5.chunk.css",
+    "main.js": "/discover-destiny/static/js/main.b45371fc.chunk.js",
+    "main.js.map": "/discover-destiny/static/js/main.b45371fc.chunk.js.map",
+    "runtime-main.js": "/discover-destiny/static/js/runtime-main.916c5f44.js",
+    "runtime-main.js.map": "/discover-destiny/static/js/runtime-main.916c5f44.js.map",
+    "static/js/2.44c7d495.chunk.js": "/discover-destiny/static/js/2.44c7d495.chunk.js",
+    "static/js/2.44c7d495.chunk.js.map": "/discover-destiny/static/js/2.44c7d495.chunk.js.map",
+    "index.html": "/discover-destiny/index.html",
+    "precache-manifest.7ad2b477c908f5b22ce51a403fd35c11.js": "/discover-destiny/precache-manifest.7ad2b477c908f5b22ce51a403fd35c11.js",
+    "service-worker.js": "/discover-destiny/service-worker.js",
+    "static/css/main.d6f4fba5.chunk.css.map": "/discover-destiny/static/css/main.d6f4fba5.chunk.css.map",
+    "static/js/2.44c7d495.chunk.js.LICENSE.txt": "/discover-destiny/static/js/2.44c7d495.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.916c5f44.js",
+    "static/js/2.44c7d495.chunk.js",
+    "static/css/main.d6f4fba5.chunk.css",
+    "static/js/main.b45371fc.chunk.js"
+  ]
+}
